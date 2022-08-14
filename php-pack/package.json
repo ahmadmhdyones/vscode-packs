@@ -1,0 +1,38 @@
+{
+  "name": "php-pack",
+  "displayName": "VSCode PHP Pack",
+  "description": "Ultimage set of extensions pack for PHP development",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-php-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-php-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-php-pack/issues"
+  },
+  "extensionPack": [
+    "xdebug.php-debug",
+    "zobo.php-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "ikappas.phpcs",
+    "kokororin.vscode-phpfmt",
+    "rifi2k.format-html-in-php",
+    "brapifra.phpserver",
+    "DEVSENSE.phptools-vscode"
+  ]
+}

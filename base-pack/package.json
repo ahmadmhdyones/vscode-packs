@@ -1,0 +1,91 @@
+{
+  "name": "base-pack",
+  "displayName": "VSCode Base Development Tools Pack",
+  "description": "Ultimage set of extensions pack for Base Development Tools environment",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "tools",
+    "work-environment",
+    "basic",
+    "main"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-base-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-base-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-base-pack/issues"
+  },
+  "extensionPack": [
+    "VisualStudioExptTeam.vscodeintellicode",
+    "christian-kohler.path-intellisense",
+    "TabNine.tabnine-vscode",
+    "formulahendry.code-runner",
+    "alefragnani.project-manager",
+    "streetsidesoftware.code-spell-checker",
+    "alefragnani.Bookmarks",
+    "aaron-bond.better-comments",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "EditorConfig.EditorConfig",
+    "WakaTime.vscode-wakatime",
+    "oderwat.indent-rainbow",
+    "johnpapa.vscode-peacock",
+    "pflannery.vscode-versionlens",
+    "usernamehw.errorlens",
+    "IBM.output-colorizer",
+    "naumovs.color-highlight",
+    "anseki.vscode-color",
+    "wwm.better-align",
+    "xshrim.txt-syntax",
+    "ryu1kn.text-marker",
+    "kisstkondoros.vscode-gutter-preview",
+    "SimonSiefke.svg-preview",
+    "tomoki1207.pdf",
+    "pnp.polacode",
+    "robertz.code-snapshot",
+    "nobuhito.printcode",
+    "funkyremi.vscode-google-translate",
+    "ryu1kn.partial-diff",
+    "Tyriar.sort-lines",
+    "dakara.dakara-foldplus",
+    "sleistner.vscode-fileutils",
+    "zh9528.file-size",
+    "wmaurer.change-case",
+    "chunsen.bracket-select",
+    "mlewand.select-part-of-word",
+    "dbankier.vscode-quick-select",
+    "yatki.vscode-surround",
+    "everettjf.filter-line",
+    "bierner.emojisense",
+    "Tyriar.lorem-ipsum",
+    "gurayyarar.dummytextgenerator",
+    "helixquar.randomeverything",
+    "albymor.increment-selection",
+    "neptunedesign.vs-sequential-number",
+    "RomanPeshkov.vscode-text-tables",
+    "jsynowiec.vscode-insertdatestring",
+    "mikey.vscode-fileheader",
+    "plibither8.remove-comments",
+    "zfzackfrost.commentbars",
+    "stackbreak.comment-divider",
+    "slysherz.comment-box",
+    "wmontalvo.vsc-meta-snippet",
+    "dkultasev.vs-code-snippet-generator",
+    "Shan.code-settings-sync"
+  ]
+}

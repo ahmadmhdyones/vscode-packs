@@ -1,0 +1,39 @@
+{
+  "name": "git-pack",
+  "displayName": "VSCode Git Pack",
+  "description": "Ultimage set of extensions pack for Git development",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "repository",
+    "version",
+    "github",
+    "gitlab"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-git-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-git-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-git-pack/issues"
+  },
+  "extensionPack": [
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "codezombiech.gitignore"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "node-pack",
+  "displayName": "VSCode Node.js Pack",
+  "description": "Ultimage set of extensions pack for Node.js editing",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-node-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-node-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-node-pack/issues"
+  },
+  "extensionPack": [
+    "chris-noring.node-snippets"
+  ]
+}

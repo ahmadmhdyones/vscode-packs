@@ -1,0 +1,54 @@
+{
+  "name": "htmlcss-pack",
+  "displayName": "VSCode HTML & CSS Pack",
+  "description": "Ultimage set of extensions pack for HTML & CSS development",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "web",
+    "frontend",
+    "snippets",
+    "peek",
+    "completion",
+    "tag",
+    "accessibility",
+    "formatter"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-htmlcss-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-htmlcss-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-htmlcss-pack/issues"
+  },
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "abusaidm.html-snippets",
+    "pranaygp.vscode-css-peek",
+    "Zignd.html-css-class-completion",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "anteprimorac.html-end-tag-labels",
+    "esbenp.prettier-vscode",
+    "HookyQR.beautify",
+    "mkaufman.HTMLHint",
+    "MaxvanderSchee.web-accessibility",
+    "cipchk.cssrem",
+    "techer.open-in-browser",
+    "ritwickdey.LiveServer"
+  ]
+}

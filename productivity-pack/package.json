@@ -1,0 +1,44 @@
+{
+  "name": "productivity-pack",
+  "displayName": "VSCode Productivity Pack",
+  "description": "Ultimage set of extensions pack for Productivity work",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "productive",
+    "work",
+    "issues",
+    "pomodoro",
+    "projects-manager",
+    "pkm"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-productivity-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-productivity-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-productivity-pack/issues"
+  },
+  "extensionPack": [
+    "axosoft.gitkraken-glo",
+    "Stepsize.stepsize",
+    "vsls-contrib.codetour",
+    "ms-vsliveshare.vsliveshare",
+    "dendron.dendron",
+    "kruemelkatze.vscode-dashboard",
+    "cosminalco.pomodoro"
+  ]
+}

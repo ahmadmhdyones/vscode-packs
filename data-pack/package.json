@@ -1,0 +1,37 @@
+{
+  "name": "data-pack",
+  "displayName": "VSCode Data Pack",
+  "description": "Ultimage set of extensions pack for Data viewing",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "excel",
+    "csv",
+    "dataset"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-data-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-data-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-data-pack/issues"
+  },
+  "extensionPack": [
+    "GrapeCity.gc-excelviewer",
+    "mechatroner.rainbow-csv",
+    "RandomFractalsInc.vscode-data-preview"
+  ]
+}

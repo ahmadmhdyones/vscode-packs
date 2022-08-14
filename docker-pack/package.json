@@ -1,0 +1,33 @@
+{
+  "name": "docker-pack",
+  "displayName": "VSCode Docker Pack",
+  "description": "Ultimage set of extensions pack for Docker development",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "containers"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-docker-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-docker-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-docker-pack/issues"
+  },
+  "extensionPack": [
+    "ms-azuretools.vscode-docker"
+  ]
+}

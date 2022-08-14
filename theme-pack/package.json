@@ -1,0 +1,65 @@
+{
+  "name": "theme-pack",
+  "displayName": "VSCode Themes Pack",
+  "description": "Ultimate pack of (Dark, Colorful, and Light) themes",
+  "version": "0.0.1",
+  "publisher": "ahmadmhdyones",
+  "engines": {
+    "vscode": "^1.70.0",
+    "node": "^18.6.0"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#384357",
+    "theme": "dark"
+  },
+  "keywords": [
+    "themes",
+    "icons",
+    "dark",
+    "colorful",
+    "light"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadmhdyones/vscode-theme-pack"
+  },
+  "homepage": "https://github.com/ahmadmhdyones/vscode-theme-pack",
+  "bugs": {
+    "url": "https://github.com/ahmadmhdyones/vscode-theme-pack/issues"
+  },
+  "extensionPack": [
+    "zhuangtongfa.material-theme",
+    "PKief.material-icon-theme",
+    "Equinusocio.vsc-material-theme",
+    "Equinusocio.vsc-community-material-theme",
+    "equinusocio.vsc-material-theme-icons",
+    "arcticicestudio.nord-visual-studio-code",
+    "vscode-icons-team.vscode-icons",
+    "akamud.vscode-theme-onedark",
+    "dracula-theme.theme-dracula",
+    "whizkydee.material-palenight-theme",
+    "GitHub.github-vscode-theme",
+    "monokai.theme-monokai-pro-vscode",
+    "naumovs.theme-oceanicnext",
+    "wesbos.theme-cobalt2",
+    "sdras.night-owl",
+    "johnpapa.winteriscoming",
+    "SolarLiner.linux-themes",
+    "Increments.qiita",
+    "mariorodeghiero.vue-theme",
+    "jprestidge.theme-material-theme",
+    "peaceshi.syntax-highlight",
+    "Sujan.code-blue",
+    "jaredkent.laserwave",
+    "RobbOwen.synthwave-vscode",
+    "Youssef.viow",
+    "teabyii.ayu",
+    "liviuschera.noctis",
+    "idleberg.hopscotch",
+    "tinkertrain.theme-panda"
+  ]
+}
