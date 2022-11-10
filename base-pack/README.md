@@ -25,7 +25,6 @@ The **VSCode Base Development Tools** pack includes:
 * [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider)
 * [Dummy Text Generator](https://marketplace.visualstudio.com/items?itemName=gurayyarar.dummytextgenerator)
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 * [Filter Line](https://marketplace.visualstudio.com/items?itemName=everettjf.filter-line)
 * [Fold Plus](https://marketplace.visualstudio.com/items?itemName=dakara.dakara-foldplus)
