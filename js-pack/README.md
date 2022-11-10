@@ -19,7 +19,6 @@ The **VSCode JavaScript** pack includes:
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-* [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 * [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
