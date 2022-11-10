@@ -12,7 +12,6 @@ The **VSCode JavaScript** pack includes:
 
 * [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
-* [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)
 * [Doctor](https://marketplace.visualstudio.com/items?itemName=iceworks-team.iceworks-doctor)
 * [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
 * [Dotenv Intellisense](https://marketplace.visualstudio.com/items?itemName=temitope1909.dotenv-intellisense)
