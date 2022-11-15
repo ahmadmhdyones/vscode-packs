@@ -29,6 +29,7 @@
     "url": "https://github.com/ahmadmhdyones/vscode-remote-pack/issues"
   },
   "extensionPack": [
+    "ms-vscode.remote-explorer",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode-remote.remote-containers"
