@@ -16,7 +16,6 @@ The **VSCode HTML & CSS** pack includes:
 * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-* [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 * [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
 * [HTMLHint](https://marketplace.visualstudio.com/items?itemName=htmlhint.vscode-htmlhint)
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
