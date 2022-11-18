@@ -10,7 +10,6 @@ I love building tools that make developers productive!
 
 The **VSCode Base Development Tools** pack includes:
 
-* [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)
 * [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
