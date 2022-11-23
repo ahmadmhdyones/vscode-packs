@@ -30,7 +30,6 @@
     "url": "https://github.com/ahmadmhdyones/vscode-vue-pack/issues"
   },
   "extensionPack": [
-    "octref.vetur",
     "Vue.volar",
     "hollowtree.vue-snippets",
     "sdras.vue-vscode-snippets",

@@ -10,7 +10,6 @@ I love building tools that make developers productive!
 
 The **VSCode Vue.js** pack includes:
 
-* [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 * [Vue 3 Snippets](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets)
 * [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 * [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
